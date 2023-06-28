@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Poppins-Italic;
+    src: url(Poppins-Italic.ttf);
+}
+
+
+h1{
+    font-family: Verdana, arial;
+}
+
+p{
+    font-family: "lucida console","courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}

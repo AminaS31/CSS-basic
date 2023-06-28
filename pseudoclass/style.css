@@ -1,0 +1,17 @@
+button:hover{
+    font-size: 1.1em;
+    background-color: rgb(247, 247, 9);
+}
+button:active{
+    font-size: 1.1em;
+    background-color: burlywood;
+}
+li:hover{
+    background-color: yellow;
+}
+li:not(:hover){
+    background-color: rgb(192, 219, 246);
+}
+li:nth-child(odd){
+    background-color: blueviolet;
+}

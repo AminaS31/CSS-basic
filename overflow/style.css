@@ -1,0 +1,16 @@
+#one{
+    border: 2px solid;
+    height: 65px;
+    overflow: visible;
+}
+#two{
+    border: 2px solid;
+    height: 65px;
+    overflow: hidden;
+}
+#three{
+    border: 2px solid;
+    height: 65px;
+    overflow:scroll;
+
+}
